@@ -44,3 +44,5 @@ sleep 1
 logger "Teste Logger nochmal"
 sleep 1
 logger "End"
+
+archiver
