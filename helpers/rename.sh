@@ -1,3 +1,4 @@
+#!/bin/bash
 
 ### rename Syntax für Regex dder Gestalt 's/SUCHSTRING/ERSETZUNGSSTRING/MODIFIKATOR'
 ## Selektoren
