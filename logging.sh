@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/
 
 # Funktion, die in die Logdatei $LOG schreibt
 logger(){
